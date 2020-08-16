@@ -17,4 +17,15 @@
 <img width="495" src="https://user-images.githubusercontent.com/39558070/90326871-b7e65400-dfc8-11ea-8ae2-bcfd529b1b14.png">
 <br>
 
-[alma 제품에 대한 결과 output파일](https://github.com/admirebg/opencv__feature_matching/files/5080009/Alma.txt)
+
+## How to use
+usage example
+
+python ./get_rank.py [input_image] [db_directory] [output_file] <br>
+ex) python ./get_rank.py /Users/kim-yeseul/Documents/user_lv/네버풀_모노그램.jpeg /Users/kim-yeseul/Documents/lv /Users/kim-yeseul/Documents/out_files/네버풀_모노그램.txt  
+<br>
+./get_ranks.pl [input_directory] [db_directory] [output_directory] <br>
+ex) get_ranks.pl  /Users/kim-yeseul/Documents/user_lv /Users/kim-yeseul/Documents/lv /Users/kim-yeseul/Documents/result
+<br>
+<br>
+[<< alma 제품에 대한 결과 output파일 >>](https://github.com/admirebg/opencv__feature_matching/files/5080009/Alma.txt)
