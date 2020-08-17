@@ -6,7 +6,7 @@
 
 ## Libraries 
 - opencv
-- Brute-Force Matching with ORB Descriptors (https://docs.opuencv.org/master/dc/dc3/tutorial_py_matcher.html)
+- Brute-Force Matching with ORB Descriptors (https://docs.opencv.org/master/dc/dc3/tutorial_py_matcher.html)
 - google vision api (https://cloud.google.com/vision/docs/)
 
 
